@@ -27,7 +27,6 @@ Pillow==8.4.0
 pipwin==0.5.1
 promise==2.3
 psycopg2==2.9.3
-PyAudio @ file:///C:/Users/vlad_/pipwin/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
 pycparser==2.21
 pyinstaller-hooks-contrib==2021.3
 pyjsparser==2.7.1
