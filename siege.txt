@@ -2,3 +2,19 @@ http://89.108.83.122/
 http://89.108.83.122/products/
 http://89.108.83.122/users/profile/
 http://89.108.83.122/orders/
+
+** SIEGE 4.0.4
+** Preparing 1 concurrent users for battle.
+The server is now under siege...
+Transactions:                     11 hits
+Availability:                 100.00 %
+Elapsed time:                   0.08 secs
+Data transferred:               0.39 MB
+Response time:                  0.01 secs
+Transaction rate:             137.50 trans/sec
+Throughput:                     4.83 MB/sec
+Concurrency:                    1.00
+Successful transactions:          11
+Failed transactions:               0
+Longest transaction:            0.07
+Shortest transaction:           0.00
